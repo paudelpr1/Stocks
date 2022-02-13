@@ -1,17 +1,6 @@
 /**
-Date: 11/29/2021
-
-Course: CSCI 2073 40416
-
 Description: This program keeps track of customer's stock holding. This class keeps track of 
               the value of stock bought and sold by a customer and design their portfolio of stock.
-             
-On my honor, I have neither given nor received unauthorized help while
-completing this assignment.
-
-Name: Prasansha Paudel
-CWID: 30120811
-
 */
 
 /*imports required java classes */
